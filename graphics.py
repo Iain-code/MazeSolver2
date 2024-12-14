@@ -92,7 +92,7 @@ class Cell:
         next_cell_middle_y = (to_cell._y1 + to_cell._y2) / 2
 
         if undo:
-            color = "gray"
+            color = "blue"
         else: 
             color = "red"
       
